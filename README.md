@@ -9,10 +9,6 @@ Este repositório contém implementações de fórmulas matemáticas e físicas 
 - [Objetivo](#objetivo)
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Repositório](#estrutura-do-repositório)
-- [Instalação](#instalação)
-- [Exemplos de Uso](#exemplos-de-uso)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ---
 
